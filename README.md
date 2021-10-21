@@ -71,7 +71,7 @@ After the game `Snake-Game-React` has been downloaded enter the following comman
 
 ```bash
  cd Snake-Game-React
- npm istall
+ npm install
 ```
 
 All set, now to play just type the following command
