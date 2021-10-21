@@ -2,12 +2,12 @@
 
 <!-- <p align="center"><a href="https://github.com/J0se-Luiz/site-react-on-git.git" target="_blank">Play this one by clicking here or follow the instructions to download!</a></p> -->
 
-## :video_game: Go Go Go CLICK-ME :video_game: **Snake Game** [Play this one by clicking here or follow the instructions to download!](https://pt.wikipedia.org/wiki/Serpente_(jogo_eletr%C3%B4nico))
+##  [:video_game: :video_game: Go Go Go CLICK-ME :video_game: :video_game: **Snake Game** Play this one by clicking here or follow the instructions to download!](https://pt.wikipedia.org/wiki/Serpente_(jogo_eletr%C3%B4nico))
 
 
 <br/>
 
-### :video_game: :video_game: **Snake Game**  (Snake, also known as "snake game") is a game that was known for several versions whose initial version began with the 1976 game Blockade, with several imitations being made in video games and computers. [but on the subject](https://pt.wikipedia.org/wiki/Serpente_(jogo_eletr%C3%B4nico))
+### **Snake Game**  (Snake, also known as "snake game") is a game that was known for several versions whose initial version began with the 1976 game Blockade, with several imitations being made in video games and computers. [but on the subject](https://pt.wikipedia.org/wiki/Serpente_(jogo_eletr%C3%B4nico))
 ---
 <br>
 
