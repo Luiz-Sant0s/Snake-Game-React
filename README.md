@@ -1,20 +1,19 @@
-<h1 align="center">:snake: Snake Game React :video_game:</h1><br/>
+<h1 align="center"> Snake Game React :video_game: :snake:</h1><br/>
 
 <p align="center"><a href="https://github.com/J0se-Luiz/site-react-on-git.git" target="_blank">Play this one by clicking here or follow the instructions to download!</a></p>
 
 <br/>
 
-### **Snake Game**  (Snake, also known as "snake game") is a game that was known for several versions whose initial version began with the 1976 game Blockade, with several imitations being made in video games and computers. [but on the subject](https://pt.wikipedia.org/wiki/Serpente_(jogo_eletr%C3%B4nico))
+### :video_game: :video_game: **Snake Game**  (Snake, also known as "snake game") is a game that was known for several versions whose initial version began with the 1976 game Blockade, with several imitations being made in video games and computers. [but on the subject](https://pt.wikipedia.org/wiki/Serpente_(jogo_eletr%C3%B4nico))
 ---
 <br>
 
 
 <h2 align="center">Lets go to what matters ...</h2>
-
 <br/>
 
 ## **Instructions and controls** 
----
+
 <br/>
 
 <P align="center"><strong> MOBILE </strong></P>
@@ -41,21 +40,6 @@
 <img  width="30%" src="./contentForReadme/print/print-desktop2.png" />
 <img  width="30%" src="./contentForReadme/print/print-desktop3.png" />
 
-<iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="./contentForReadme/video/mp4/snake-game-react-desktop.mp4">
-  </iframe>
-
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="contentForReadme/video/mp4/snake-game-react-desktop.mp4">
-  </iframe>
-
-[![Watch the video](contentForReadme/print/videoCover.png)](contentForReadme/video/mp4/snake-game-react-desktop.mp4)
 
 <video controls="true" width="100%" width="320" height="240" align="center" allowfullscreen="true"  poster="./contentForReadme/print/videoCover.png" >
 <source src="contentForReadme/video/mp4/snake-game-react-desktop.mp4" type="video/mp4"></source>
@@ -70,7 +54,7 @@
 Look at the folder you want to place the game in, open a terminal tab and use the link below to clone the project, follow the rest of the guidelines to play on your computer
 
 ```bash
-https://github.com/J0se-Luiz/site-react-on-git.git 
+https://github.com/J0se-Luiz/Snake-Game-React.git 
 ```
 
 After the game `Snake-Game-React` has been downloaded enter the following commands
