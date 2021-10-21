@@ -1,7 +1,7 @@
 <h1 align="center"> Snake Game React :video_game: :snake:</h1><br/>
 
 
-<p align="center"><a href="https://j0se-luiz.github.io/Snake-Game-React/" target="_blank">:video_game: :video_game: CLICK-ME :video_game: :video_game: **Snake Game** Play this one by clicking here or follow the instructions to download!</a></p>
+<a align="center" href="https://j0se-luiz.github.io/Snake-Game-React/" target="_blank">:video_game: :video_game: CLICK-ME :video_game: :video_game: **Snake Game** Play this one by clicking here or follow the instructions to download!</a>
 
 
 <!-- <p align="center"><a href="https://j0se-luiz.github.io/Snake-Game-React/" target="_blank">Play this one by clicking here or follow the instructions to download!</a></p> -->
