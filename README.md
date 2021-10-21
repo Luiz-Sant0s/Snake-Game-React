@@ -26,11 +26,15 @@
 <img  width="30%" src="./contentForReadme/print/print-mobile1.png" />
 <img  width="30%" src="./contentForReadme/print/print-mobile2.png" />
 <img  width="30%" src="./contentForReadme/print/print-mobile3.png" />
-<video controls="true" width="100%" width="320" height="240" align="center" allowfullscreen="true" poster="./contentForReadme/print/videoCover.png">
+
+<!-- <video controls="true" width="100%" width="320" height="240" align="center" allowfullscreen="true" poster="./contentForReadme/print/videoCover.png">
 <source src="./contentForReadme/video/mp4/snake-game-react-mobile.mp4" type="video/mp4"></source>
 <source src="./contentForReadme/video/ogv/snake-game-react-mobile.ogv" type="video/ogv"></source>
 <source src="./contentForReadme/video/webm/snake-game-react-mobile.webm" type="video/webm"></source>
-</video>
+</video> -->
+
+![gif mobile Snake Game](contentForReadme/gif/snake-game-react-mobile.gif)
+
 <section>
 
 <br/>
@@ -44,11 +48,14 @@
 <img  width="30%" src="./contentForReadme/print/print-desktop3.png" />
 
 
-<video controls="true" width="100%" width="320" height="240" align="center" allowfullscreen="true"  poster="./contentForReadme/print/videoCover.png" >
+<!-- <video controls="true" width="100%" width="320" height="240" align="center" allowfullscreen="true"  poster="./contentForReadme/print/videoCover.png" >
 <source src="contentForReadme/video/mp4/snake-game-react-desktop.mp4" type="video/mp4"></source>
 <source src="contentForReadme/video/ogv/snake-game-react-desktop.ogv" type="video/ogv"></source>
 <source src="contentForReadme/video/webm/snake-game-react-desktop.webm" type="video/webm"></source>
-</video>
+</video> -->
+
+![gif desktop Snake Game](contentForReadme/gif/snake-game-react-desktop.gif)
+
 <section>
 <br/><br/><br/>
 
