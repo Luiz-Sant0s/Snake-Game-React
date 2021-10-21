@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><a href="https://github.com/J0se-Luiz/site-react-on-git.git" target="_blank">Play this one by clicking here or follow the instructions to download!</a></p> -->
 
-##  [:video_game: :video_game: Go Go Go CLICK-ME :video_game: :video_game: **Snake Game** Play this one by clicking here or follow the instructions to download!](https://github.com/J0se-Luiz/Snake-Game-React.git)
+##  [:video_game: :video_game: Go Go Go CLICK-ME :video_game: :video_game: **Snake Game** Play this one by clicking here or follow the instructions to download!](https://j0se-luiz.github.io/Snake-Game-React/)
 
 
 <br/>
@@ -71,7 +71,7 @@ After the game `Snake-Game-React` has been downloaded enter the following comman
 
 ```bash
 1- cd Snake-Game-React
-2-npm istall
+2- npm istall
 ```
 
 All set, now to play just type the following command
