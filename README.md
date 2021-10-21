@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><a href="https://github.com/J0se-Luiz/site-react-on-git.git" target="_blank">Play this one by clicking here or follow the instructions to download!</a></p> -->
 
-##  [:video_game: :video_game: Go Go Go CLICK-ME :video_game: :video_game: **Snake Game** Play this one by clicking here or follow the instructions to download!](https://pt.wikipedia.org/wiki/Serpente_(jogo_eletr%C3%B4nico))
+##  [:video_game: :video_game: Go Go Go CLICK-ME :video_game: :video_game: **Snake Game** Play this one by clicking here or follow the instructions to download!](https://github.com/J0se-Luiz/Snake-Game-React.git)
 
 
 <br/>
@@ -12,7 +12,7 @@
 <br>
 
 
-<h2 align="center">Lets go to what matters ...</h2>
+<p align="center">Lets go to what matters ...</p>
 <br/>
 
 ## **Instructions and controls** 
