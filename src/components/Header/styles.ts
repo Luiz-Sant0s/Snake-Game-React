@@ -6,16 +6,13 @@ export const HeaderContainer = styled.div`
   padding: 20px;
   box-sizing: border-box;
   color: white;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
   h1 {
     margin: 0;
     padding: 0;
-  }
-
-  div {
   }
 
   @media (max-width: 1024px) {
@@ -23,21 +20,17 @@ export const HeaderContainer = styled.div`
     display: flex;
     align-items: center;
     justify-content: space-between;
+
     h1 {
       font-size: 1.2rem;
-    }
-    div {
-      justify-content: flex-end;
-      button {
-        display: none;
-      }
     }
   }
 `;
 
 export const PointScreenContainer = styled.div`
-font-weight: bold;
-    @media (max-width: 1024px) {
-        font-size: .7rem;
-    }
+  font-weight: bold;
+
+  @media (max-width: 1024px) {
+    font-size: 0.7rem;
+  }
 `;

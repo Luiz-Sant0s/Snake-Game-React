@@ -1,4 +1,5 @@
 import styled, { css } from "styled-components";
+import ImageGlobal from "../../../helpers/ImageGlobal";
 
 interface CursorType {
   cursorVisible: boolean;
@@ -12,7 +13,7 @@ export const GameContainer = styled.section<CursorType>`
   margin: 5% auto;
   border: 2px solid #000;
   padding: 0;
-  background-image: url("img/background.jpg");
+  background-image: url(${ImageGlobal.BackgroundGame});
 
   &:focus {
     outline: none;
@@ -23,10 +24,10 @@ export const GameContainer = styled.section<CursorType>`
     margin: 1% auto;
   }
 
-  ${({ cursorVisible }) =>
+  ${({ cursorVisible }) => 
     cursorVisible || cursorVisible === undefined
       ? css`
-          cursor: url("img/Cursor2.png"), default;
+          cursor: url(${ImageGlobal.Cursor}), default;
         `
       : css`
           cursor: none;

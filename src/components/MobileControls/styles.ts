@@ -1,4 +1,14 @@
 import styled from "styled-components";
+import ImageGlobal from "../../helpers/ImageGlobal";
+
+const btn = `${process.env.PUBLIC_URL}/img/BtnTop.png`;
+
+const Btn = {
+  BtnTOP: `${process.env.PUBLIC_URL}/img/BtnTop.png`,
+  BtnBOTTOM: `${process.env.PUBLIC_URL}/img/BtnBottom.png`,
+  BtnLEFT: `${process.env.PUBLIC_URL}/img/BtnLeft.png`,
+  BtnRIGHT: `${process.env.PUBLIC_URL}/img/BtnRight.png`,
+};
 
 export const MobileControlsContainer = styled.div`
   position: relative;
@@ -9,7 +19,7 @@ export const MobileControlsContainer = styled.div`
   }
 `;
 
-export const DPadContainer = styled.div`
+export const BodyControls = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,85 +30,44 @@ export const DPadContainer = styled.div`
   }
 `;
 
-
-export const BtnTOP = styled.button`
+const BtnMobile = styled.button`
   cursor: pointer;
   height: 60px;
   width: 60px;
-  background-image: url('img/BtnTop.png');
   background-repeat: no-repeat;
   background-position: center;
   border: none;
   background-color: transparent;
+
+  &:focus,
+  &:active {
+    outline: none;
+  }
+  &:active {
+    opacity: 0.7;
+  }
+`;
+
+export const BtnUp = styled(BtnMobile)`
+  height: 70px;
+  background-image: url(${ImageGlobal.Button.Up});
   position: relative;
-    top: 15px;
-
-  &:focus,
-  &:active {
-    outline: none;
-  }
-  &:active {
-    opacity: 0.2;
-  }
+  top: 15px;
 `;
 
-export const BtnLEFT = styled.button`
-  cursor: pointer;
-  height: 60px;
-  width: 60px;
-  background-image: url('img/BtnLeft.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  border: none;
-  background-color: transparent;
-
-  &:focus,
-  &:active {
-    outline: none;
-  }
-  &:active {
-    opacity: 0.2;
-  }
-
+export const BtnLEFT = styled(BtnMobile)`
+  width: 70px;
+  background-image: url(${ImageGlobal.Button.Left});
 `;
 
-
-export const BtnRIGHT = styled.button`
-  cursor: pointer;
-  height: 50px;
-  width: 60px;
-  background-image: url('img/BtnRight.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  border: none;
-  background-color: transparent;
-
-  &:focus,
-  &:active {
-    outline: none;
-  }
-  &:active {
-    opacity: 0.2;
-  }
+export const BtnRIGHT = styled(BtnMobile)`
+  width: 70px;
+  background-image: url(${ImageGlobal.Button.Right});
 `;
 
-export const BtnBOTTOM = styled.button`
-  cursor: pointer;
-  height: 60px;
-  width: 60px;
-  background-image: url('img/BtnBottom.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  border: none;
-  background-color: transparent;
+export const BtnDown = styled(BtnMobile)`
+  height: 70px;
+  background-image: url(${ImageGlobal.Button.Down});
   position: relative;
-    bottom: 20px;
-
-  &:focus,
-  &:active {
-    outline: none;
-  }
-  &:active {
-    opacity: 0.2;
-  }
+  bottom: 20px;
 `;

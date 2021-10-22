@@ -1,12 +1,13 @@
 import React, { KeyboardEvent, useContext } from "react";
 import PlayArea from "../../PlayArea";
 import Header from "../../Header";
-import { GameContainer } from "./styles";
+import * as S from "./styles";
 import GameContext from "../../../helpers/context/GameContext/context";
 import DirectionToGo from "../../../helpers/DirectionToGo";
 import GAME_SETTINGS from "../../../helpers/config/gameSettings";
 import StartOrReplay from "../../StartOrReplay";
 import MobileControls from "../../MobileControls";
+import GoToGitHub from '../../GoToGitHub'
 
 const Game = () => {
   const { width } = GAME_SETTINGS.gameResolution;
@@ -14,6 +15,7 @@ const Game = () => {
 
   const handleGame = (e: KeyboardEvent) => {
     switch (e.code) {
+      
       case "KeyS":
       case "ArrowDown": {
         changeDirection(DirectionToGo.BOTTOM);
@@ -42,7 +44,7 @@ const Game = () => {
 
   return (
     <>
-      <GameContainer
+      <S.GameContainer
         cursorVisible={state.isGameOver}
         role="button"
         tabIndex={0}
@@ -53,8 +55,9 @@ const Game = () => {
         <Header />
         <PlayArea />
         <StartOrReplay />
-      </GameContainer>
+      </S.GameContainer>
       <MobileControls />
+      <GoToGitHub />
     </>
   );
 };

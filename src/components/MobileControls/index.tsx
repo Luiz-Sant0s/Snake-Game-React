@@ -7,10 +7,10 @@ const MobileControls = () => {
   const { changeDirection } = useContext(GameContext);
   return (
     <S.MobileControlsContainer>
-      <S.DPadContainer>
-        <S.BtnTOP
+      <S.BodyControls>
+        <S.BtnUp
           onClick={() => changeDirection(DirectionToGo.TOP)}
-        ></S.BtnTOP>
+        ></S.BtnUp>
         <div>
           <S.BtnLEFT onClick={() => changeDirection(DirectionToGo.LEFT)}>
            
@@ -19,10 +19,10 @@ const MobileControls = () => {
             onClick={() => changeDirection(DirectionToGo.RIGHT)}
           ></S.BtnRIGHT>
         </div>
-        <S.BtnBOTTOM
+        <S.BtnDown
           onClick={() => changeDirection(DirectionToGo.BOTTOM)}
-        ></S.BtnBOTTOM>
-      </S.DPadContainer>
+        ></S.BtnDown>
+      </S.BodyControls>
     </S.MobileControlsContainer>
   );
 };
