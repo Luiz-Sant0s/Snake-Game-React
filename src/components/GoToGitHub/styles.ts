@@ -18,8 +18,8 @@ export const GoToGitHubStyle = styled.button`
   height: 65px;
   width: 65px;
   position: fixed;
-  bottom: 40px;
-  right: 4px;
+  bottom: 45px;
+  right: 11px;
   cursor: pointer;
 
   :hover {
