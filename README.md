@@ -6,7 +6,7 @@
 
 <br/>
 
-### **Snake** is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. [see more about the subject](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
+## **Snake** is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. [see more about the subject](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 ---
 <br>
 
@@ -14,7 +14,7 @@
 <p align="center">Lets go to what matters ...</p>
 <br/>
 
-## **Instructions and controls** 
+<h2 align="center"><strong> Instructions and controls</strong></h2>
 
 <br/>
 
