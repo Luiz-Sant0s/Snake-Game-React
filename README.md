@@ -6,7 +6,7 @@
 
 <br/>
 
-### **Snake Game**  (Snake, also known as "snake game") is a game that was known for several versions whose initial version began with the 1976 game Blockade, with several imitations being made in video games and computers. [but on the subject](https://pt.wikipedia.org/wiki/Serpente_(jogo_eletr%C3%B4nico))
+### **Snake** is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. [see more about the subject](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 ---
 <br>
 
