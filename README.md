@@ -19,7 +19,7 @@
 <br/>
 
 <P align="center"><strong> MOBILE </strong></P>
-<p> Use the <strong> mobile control buttons </strong>to indicate the direction the snake should go.</p>
+<p align="center"> Use the <strong> mobile control buttons </strong>to indicate the direction the snake should go.</p>
 
 <section align="center">
 <img  width="30%" src="./contentForReadme/print/print-mobile1.png" />
