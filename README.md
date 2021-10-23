@@ -1,13 +1,8 @@
 <h1 align="center"> Snake Game React :video_game: :snake:</h1><br/>
 
 
-<a align="center" href="https://j0se-luiz.github.io/Snake-Game-React/" target="_blank">:video_game: :video_game: CLICK-ME :video_game: :video_game: Snake Game Play this one by clicking here or follow the instructions to download!</a>
-
-
-<!-- <p align="center"><a href="https://j0se-luiz.github.io/Snake-Game-React/" target="_blank">Play this one by clicking here or follow the instructions to download!</a></p> -->
-
-<!-- ##  [:video_game: :video_game: Go Go Go CLICK-ME :video_game: :video_game: **Snake Game** Play this one by clicking here or follow the instructions to download!](https://j0se-luiz.github.io/Snake-Game-React/) -->
-
+<a align="center" href="https://j0se-luiz.github.io/Snake-Game-React/" target="_blank">:video_game: :video_game: CLICK-ME <img  width="30%" src="./contentForReadme/print/logo-game.png" /> :video_game: :video_game: Snake Game Play this one by clicking here or follow the instructions to download!
+</a>
 
 <br/>
 
@@ -31,12 +26,6 @@
 <img  width="30%" src="./contentForReadme/print/print-mobile2.png" />
 <img  width="30%" src="./contentForReadme/print/print-mobile3.png" />
 
-<!-- <video controls="true" width="100%" width="320" height="240" align="center" allowfullscreen="true" poster="./contentForReadme/print/videoCover.png">
-<source src="./contentForReadme/video/mp4/snake-game-react-mobile.mp4" type="video/mp4"></source>
-<source src="./contentForReadme/video/ogv/snake-game-react-mobile.ogv" type="video/ogv"></source>
-<source src="./contentForReadme/video/webm/snake-game-react-mobile.webm" type="video/webm"></source>
-</video> -->
-
 ![gif mobile Snake Game](contentForReadme/gif/snake-game-react-mobile.gif)
 
 <section>
@@ -50,13 +39,6 @@
 <img  width="30%" src="./contentForReadme/print/print-desktop1.png" />
 <img  width="30%" src="./contentForReadme/print/print-desktop2.png" />
 <img  width="30%" src="./contentForReadme/print/print-desktop3.png" />
-
-
-<!-- <video controls="true" width="100%" width="320" height="240" align="center" allowfullscreen="true"  poster="./contentForReadme/print/videoCover.png" >
-<source src="contentForReadme/video/mp4/snake-game-react-desktop.mp4" type="video/mp4"></source>
-<source src="contentForReadme/video/ogv/snake-game-react-desktop.ogv" type="video/ogv"></source>
-<source src="contentForReadme/video/webm/snake-game-react-desktop.webm" type="video/webm"></source>
-</video> -->
 
 ![gif desktop Snake Game](contentForReadme/gif/snake-game-react-desktop.gif)
 
