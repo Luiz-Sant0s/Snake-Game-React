@@ -47,10 +47,10 @@
 
 ## **Installation**
 
-Look at the folder you want to place the game in, open a terminal tab and use the link below to clone the project, follow the rest of the guidelines to play on your computer
+Look for the folder where you want to place the game, open a terminal tab and type this command below to clone the project, follow the rest of the guidelines to play on your computer
 
 ```bash
-https://github.com/J0se-Luiz/Snake-Game-React.git 
+git clone https://github.com/J0se-Luiz/Snake-Game-React.git 
 ```
 
 After the game `Snake-Game-React` has been downloaded enter the following commands
