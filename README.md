@@ -19,7 +19,7 @@
 <br/>
 
 <P align="center"><strong> MOBILE </strong></P>
-<p> Use the <strong> mobile control buttons </strong>to indicate the direction the snake should go  </p>
+<p> Use the <strong> mobile control buttons </strong>to indicate the direction the snake should go.</p>
 
 <section align="center">
 <img  width="30%" src="./contentForReadme/print/print-mobile1.png" />
@@ -33,7 +33,7 @@
 <br/>
 
 <P align="center"><strong> DESKTOP </strong></P>
-<p align="center"> use the keys <strong>W, A, S, D</strong> or the arrow keys <strong>TOP, LEFT, RIGHT, DOWN</strong> to indicate game directions.</p> <br>
+<p align="center"> use the keys <strong>W, A, S, D</strong> or the arrow keys <strong>TOP, LEFT, RIGHT, DOWN</strong> to indicate the direction the snake should go.</p> <br>
 
 <section align="center">
 <img  width="30%" src="./contentForReadme/print/print-desktop1.png" />
